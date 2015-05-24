@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/gilmarj/smartcanvas/d1-deployment/env-scripts/ancar-eld/brain'
+let g:netrw_dirhist_2='/home/gilmarj/.vim/bundle/vim-colors-solarized/.git'
